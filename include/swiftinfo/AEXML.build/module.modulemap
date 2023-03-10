@@ -1,4 +1,4 @@
 module AEXML {
-    header "/Users/asif/Documents/gitclone.noindex/opensource/SwiftInfo/.build/arm64-apple-macosx/release/AEXML.build/AEXML-Swift.h"
+    header "/Users/asif/Documents/gitclone.noindex/opensource/SwiftInfo/.build/x86_64-apple-macosx/release/AEXML.build/AEXML-Swift.h"
     requires objc
 }

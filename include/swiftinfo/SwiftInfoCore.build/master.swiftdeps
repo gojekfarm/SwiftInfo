@@ -1,7 +1,7 @@
 version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
 options: "ad5c317b14a56b5f1ba351312b0bb699658fa49dd5d6a52fac20ca40114281d3"
-build_start_time: [1678457750, 300748825]
-build_end_time: [1678457753, 584305047]
+build_start_time: [1678459757, 223894119]
+build_end_time: [1678459762, 79276084]
 inputs:
   "/Users/asif/Documents/gitclone.noindex/opensource/SwiftInfo/Sources/SwiftInfoCore/BuildSystem.swift": [1678456775, 562802553]
   "/Users/asif/Documents/gitclone.noindex/opensource/SwiftInfo/Sources/SwiftInfoCore/ExtractedInfo.swift": [1678456775, 562896728]
